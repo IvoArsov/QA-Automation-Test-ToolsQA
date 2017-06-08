@@ -1,0 +1,3 @@
+DemoQaProject.TestClass.WithoutUsername
+ || C:\Users\Valeri\Desktop\DesignPatternSelenium\DesignPatternSelenium\DemoQaProject\bin\Debug
+ || 0

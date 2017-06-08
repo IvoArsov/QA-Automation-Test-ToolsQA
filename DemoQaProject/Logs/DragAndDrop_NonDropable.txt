@@ -1,0 +1,3 @@
+DemoQaProject.TestInteractions.DragAndDrop_NonDropable
+C:\Users\Valeri\Desktop\DesignPatternSelenium\DesignPatternSelenium\DemoQaProject\bin\Debug
+0
